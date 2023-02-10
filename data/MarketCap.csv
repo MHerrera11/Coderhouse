@@ -1,5 +1,5 @@
 slug,symbol,name,date,ranknow,open,high,low,close,volume,market,close_ratio,spread
-bitcoin,BTC,Bitcoin,2013-04-28,1,135.3,135.98,132.1,134.21,0,1488566728,0.5438,3.88
+bitcoin,BTC,Bitcoin,2013-04-28,1,135.3,135.98,132.1,134.21,0,1488566728,0.5438,3.87
 bitcoin,BTC,Bitcoin,2013-04-29,1,134.44,147.49,134,144.54,0,1603768865,0.7813,13.49
 bitcoin,BTC,Bitcoin,2013-04-30,1,144,146.93,134.05,139,0,1542813125,0.3843,12.88
 bitcoin,BTC,Bitcoin,2013-05-01,1,139,139.89,107.72,116.99,0,1298954594,0.2882,32.17
