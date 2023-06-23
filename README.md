@@ -8,3 +8,6 @@
 
 ### 3era Entrega de Trabajo DataScientist - Coderhouse
 ##### Dentro del dataset "Satisfacción de Clientes en Vuelos.ipynb", se plantean las preguntas de interés o hipotesis sobre el mismo, junto a las visualizaciones, univariadas y bivariadas, y sus respectivas interpretaciones.
+
+### 4ta Entrega de Trabajo DataScientist - Coderhouse
+##### Complementación de la entrega anterior. Se terminan de desarrollar las preguntas/hipotesis que queremos resolver mediante el análisis de datos. Además, se definen objetivos y el contexto comercial y análitico.
