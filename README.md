@@ -20,4 +20,3 @@
 
 ### 7ma Entrega de Trabajo DataScientist - Primera entrega del Proyecto final
 ##### Se estructuró el problema en función de múltiples preguntas/hipótesis a responder, analizando datos tabulares (e.g excel, csv, etc) y utilizando modelos de Machine Learning con Python.
-
