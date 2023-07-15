@@ -12,10 +12,10 @@
 ### 4ta Entrega de Trabajo DataScientist - Estructurando un Proyecto de DS (parte II)
 ##### Complementación de la entrega anterior. Se terminan de desarrollar las preguntas/hipotesis que queremos resolver mediante el análisis de datos. Además, se definen objetivos y el contexto comercial y análitico.
 
-### 5ta Entrega de Trabajo DataScientist - Estructurando un proyecto de DS (parte III)
+### 5ta Entrega de Trabajo DataScientist - Estructurando un Proyecto de DS (parte III)
 ##### Complementación de la entrega anterior. Se eligió un método de feature selection para reducir la dimensionalidad del dataset. Además, de elegir un algoritmo de clasificación para entrenar con los datos elegidos y el cálculo de métricas para validar el modelo con sus respectivas conclusiones en base en los resultados obtenidos.
 
-### 6ta Entrega de Trabajo DataScientist - Evaluando modelos ML
+### 6ta Entrega de Trabajo DataScientist - Evaluando Modelos ML
 ##### Se generó una evaluación de modelos apropiados para el problema de interés identificando, por medio de las métricas generadas, si se puede tener una situación de overfitting (sobreajuste) o underfitting (subajuste), discutiendo posibles formas de mejora.
 
 ### 7ma Entrega de Trabajo DataScientist - Primera entrega del Proyecto final
