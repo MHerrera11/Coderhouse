@@ -20,3 +20,6 @@
 
 ### 7ma Entrega de Trabajo DataScientist - Primera entrega del Proyecto final
 ##### Se estructuró el problema en función de múltiples preguntas/hipótesis a responder, analizando datos tabulares (e.g excel, csv, etc) y utilizando modelos de Machine Learning con Python.
+
+### 8va Entrega de Trabajo DataScientist - Primera entrega del Proyecto final
+##### Se elige una API relacionada al proyecto, creando su respectiva API key y extrayendo la información para ser almacenada en un DataFrame, complementando el dataset elegido en el desafío principal.
