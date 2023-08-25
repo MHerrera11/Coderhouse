@@ -24,10 +24,8 @@
 ### 8va Entrega de Trabajo DataScientist - Descarga de datos desde APIs públicas
 ##### Se elige una API relacionada al proyecto, creando su respectiva API key y extrayendo la información para ser almacenada en un DataFrame, complementando el dataset elegido en el desafío principal.
 
-### 9va Entrega de Trabajo DataScientist - Data Wrangling
+### 9na Entrega de Trabajo DataScientist - Data Wrangling
 ##### Se desarrolló la limpieza de los datos elegidos para el proyecto final, teniendo en cuenta técnicas vistas en clase para el tratamiento de valores duplicados, nulos y outliers con su respectiva justificación.  
 
-
-
-### 9na Entrega de Trabajo DataScientist - Data Storytelling
+### 10ma Entrega de Trabajo DataScientist - Data Storytelling
 ##### Se desarrolla la narrativa de las sentencias para cada apartado dando respuesta a las preguntas/hipótesis formuladas para el proyecto final.
