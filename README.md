@@ -3,7 +3,7 @@
 ### 1er Entrega de Trabajo DataScientist - Elección de Datasets potenciales
 ##### Se escogieron tres dataset, con sus correspondientes notebooks, para la posterior elección de uno.
 
-### 2da Entrega de Trabajo DataScientist - Práctica integradora: Visualizaciones en Python
+### 2da Entrega de Trabajo DataScientist - Visualizaciones en Python
 ##### Se elige el dataset "Test Satisfacción de Clientes de Vuelo.csv" para la realización de tres gráficos diferentes con Matplotlib y tres con Seaborn, para su posterior interpretación. Se seguirá utilizando el notebook "Satisfacción de Clientes en Vuelos.ipynb". Además, se creó una carpeta "img" donde quedaron guardados los gráficos que se realizaron con las distintas librerias.
 
 ### 3era Entrega de Trabajo DataScientist - Estructurando un Proyecto de DS (parte I)
@@ -23,6 +23,11 @@
 
 ### 8va Entrega de Trabajo DataScientist - Descarga de datos desde APIs públicas
 ##### Se elige una API relacionada al proyecto, creando su respectiva API key y extrayendo la información para ser almacenada en un DataFrame, complementando el dataset elegido en el desafío principal.
+
+### 9va Entrega de Trabajo DataScientist - Data Wrangling
+##### Se desarrolló la limpieza de los datos elegidos para el proyecto final, teniendo en cuenta técnicas vistas en clase para el tratamiento de valores duplicados, nulos y outliers con su respectiva justificación.  
+
+
 
 ### 9na Entrega de Trabajo DataScientist - Data Storytelling
 ##### Se desarrolla la narrativa de las sentencias para cada apartado dando respuesta a las preguntas/hipótesis formuladas para el proyecto final.
