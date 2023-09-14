@@ -29,3 +29,7 @@
 
 ### 10ma Entrega de Trabajo DataScientist - Data Storytelling
 ##### Se desarrolla la narrativa de las sentencias para cada apartado dando respuesta a las preguntas/hipótesis formuladas para el proyecto final.
+
+### 11er Entrega de Trabajo DataScientist - Obtención de Insights
+##### Se pueden observar las fases de análisis univariado y bivariado que junto con el trabajo previo realizado permitieron obtener insights que ayuden a dar respuesta a las preguntas del problema del proyecto final.
+
