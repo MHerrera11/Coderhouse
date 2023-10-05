@@ -40,4 +40,4 @@
 ##### Se realizan las etapas de encoding, ingeniería de atributos y entrenamiento de un modelo de ML Supervisado, en este caso, de Clasificación.
 
 ### 14ta Entrega de Trabajo DataScientist - Evaluando modelos de ML
-##### Se complementa el proceso de Feature Engineering del desafío anterior con el fin de mejorar el proceso de entrenamiento de algoritmos de ML, donde se comparan los resultados obtenidos con los del desafío anterior.
+##### Se complementa el proceso de Feature Engineering del desafío anterior con el fin de mejorar el proceso de entrenamiento de algoritmos de ML, donde se comparan los resultados obtenidos con los del desafío anterior, para esto, se crea un nuevo akgoritmo de clasificación, utilizando nuevas variables subjetivas.
