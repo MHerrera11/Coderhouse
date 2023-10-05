@@ -33,3 +33,11 @@
 ### 11er Entrega de Trabajo DataScientist - Obtención de Insights
 ##### Se pueden observar las fases de análisis univariado y bivariado que junto con el trabajo previo realizado permitieron obtener insights que ayuden a dar respuesta a las preguntas del problema del proyecto final.
 
+### 12da Entrega de Trabajo DataScientist - Obtención de Insights a partir de Visualizaciones
+##### Se realiza una presentación de PowerPoint que contienen el abstracto con motivación y audiencia, el resumen de la metadata, preguntas hipótesis que queremos responder, visualizaciones ejecutivas que responden nuestras preguntas e insights.
+
+### 13er Entrega de Trabajo DataScientist - Entrenando un algoritmo de ML
+##### Se realizan las etapas de encoding, ingeniería de atributos y entrenamiento de un modelo de ML Supervisado, en este caso, de Clasificación.
+
+### 14ta Entrega de Trabajo DataScientist - Evaluando modelos de ML
+##### Se complementa el proceso de Feature Engineering del desafío anterior con el fin de mejorar el proceso de entrenamiento de algoritmos de ML, donde se comparan los resultados obtenidos con los del desafío anterior.
