@@ -41,3 +41,9 @@
 
 ### 14ta Entrega de Trabajo DataScientist - Evaluando modelos de ML
 ##### Se complementa el proceso de Feature Engineering del desafío anterior con el fin de mejorar el proceso de entrenamiento de algoritmos de ML, donde se comparan los resultados obtenidos con los del desafío anterior, para esto, se crea un nuevo akgoritmo de clasificación, utilizando nuevas variables subjetivas.
+
+### 15ta Entrega de Trabajo DataScientist - Ingeniería de atributos y selección de variables
+##### Se terminará el proceso de Feature Engineering del desafío anterior, donde se busca que se puedan crear nuevas variables sintéticas que ayuden a mejorar el desempeño de los modelos de Machine Learning, para luego finalizar realizando un PCA sobre todas las variables utilizadas con el fin de determinar el peso relativo de cada variable en los modelos. 
+
+### 16ta Entrega de Trabajo DataScientist - CrossValidation y mejora de modelos de ML 
+##### Se utilizara uno de los modelos de ML utilizados con las mismas variables que en el desafío anterior pero aplicando métodos de validación cruzada, pudiendo identificar razones por las cuales hay o no mejoras en el desempeño del modelo de ML. 
