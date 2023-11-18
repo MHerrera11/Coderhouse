@@ -47,3 +47,7 @@
 
 ### 16ta Entrega de Trabajo DataScientist - CrossValidation y mejora de modelos de ML 
 ##### Se utilizara uno de los modelos de ML utilizados con las mismas variables que en el desafío anterior pero aplicando métodos de validación cruzada, pudiendo identificar razones por las cuales hay o no mejoras en el desempeño del modelo de ML. 
+
+### 17ma Entrega de Trabajo DataScientist - Entrega Final 
+##### Se entrega el Proyecto Final, donde se entrenaron y optimizaron diversos modelos de Machine Learning para resolver una problemática específica, detectada en la instancia de entrega anterior, intentando cumplir con el objetivo de utilizar modelos de ML para resolver el problema de una industria o negocio.
+
